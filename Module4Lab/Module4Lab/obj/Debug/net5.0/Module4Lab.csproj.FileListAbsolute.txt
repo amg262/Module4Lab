@@ -1,0 +1,16 @@
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\bin\Debug\net5.0\Module4Lab.exe
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\bin\Debug\net5.0\Module4Lab.deps.json
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\bin\Debug\net5.0\Module4Lab.runtimeconfig.json
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\bin\Debug\net5.0\Module4Lab.runtimeconfig.dev.json
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\bin\Debug\net5.0\Module4Lab.dll
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\bin\Debug\net5.0\ref\Module4Lab.dll
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\bin\Debug\net5.0\Module4Lab.pdb
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\obj\Debug\net5.0\Module4Lab.csproj.AssemblyReference.cache
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\obj\Debug\net5.0\Module4Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\obj\Debug\net5.0\Module4Lab.AssemblyInfoInputs.cache
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\obj\Debug\net5.0\Module4Lab.AssemblyInfo.cs
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\obj\Debug\net5.0\Module4Lab.csproj.CoreCompileInputs.cache
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\obj\Debug\net5.0\Module4Lab.dll
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\obj\Debug\net5.0\ref\Module4Lab.dll
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\obj\Debug\net5.0\Module4Lab.pdb
+C:\Users\Andy\RiderProjects\Module4Lab\Module4Lab\Module4Lab\Module4Lab\obj\Debug\net5.0\Module4Lab.genruntimeconfig.cache
