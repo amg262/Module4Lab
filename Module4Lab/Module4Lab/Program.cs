@@ -39,15 +39,17 @@ namespace Module4Lab
                     Console.WriteLine($"Pennies earned on Day {daysCounted}: {penniesEarned}");
 
                 }
+                
+                outputMoney = moneyEarned / 100;
+
+                Console.WriteLine($"Total: {outputMoney:C}");
+
             }
             else
             {
                 Console.WriteLine("Error: Invalid number");
             }
-            outputMoney = moneyEarned / 100;
-
-            Console.WriteLine($"Total: {outputMoney:C}");
-
+           
             return total;
         }
 
