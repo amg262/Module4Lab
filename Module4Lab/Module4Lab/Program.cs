@@ -4,48 +4,58 @@ namespace Module4Lab
 {
     class Program
     {
+        static double Job()
+        {
+            double total = 0;
+            double moneyEarned = 0;
+            int daysWorked = 0;
+            int daysCounted = 0;
+            int totalPennies = 0;
+            int penniesEarned = 0;
+            double outputMoney = 0;
 
-      
-        // double total = 0;
-        //
-        // int days = 10;
-        //
-        // for (int i = ; i <= days; i++)
-        // {
-        //
-        //     if (days == 1)
-        //     {
-        //         total += 1;
-        //         Console.WriteLine($"Pennies earned on day 1: {total}");
-        //     } else if (days == 2)
-        //
-        //     {
-        //        
-        //         total += 2;
-        //         Console.WriteLine($"Pennies earned on day 2: {total}");
-        //     }
-        //     else
-        //     {
-        //         total += total * 2;
-        //         Console.WriteLine($"Pennies earned on day {days}: {total}");
-        //
-        //     }
-        //
-        // }
-        //
-        // days++;
-        // return total;
+            Console.WriteLine("Enter days worked>");
+            Int32.TryParse(Console.ReadLine(), out daysWorked);
 
-        
-        
+            if (daysWorked >= 1)
+            {
+                penniesEarned += 1;
+                totalPennies += 1;
+                daysCounted += 1;
+                moneyEarned += penniesEarned;
+
+                Console.WriteLine($"Pennies earned on Day {daysCounted}: {penniesEarned}");
+
+                while (daysCounted < daysWorked)
+                {
+
+                    penniesEarned *= 2;
+                    moneyEarned += penniesEarned;
+                    //totalPennies += penniesEarned;
+                    
+                    daysCounted += 1;
+             
+
+                    Console.WriteLine($"Pennies earned on Day {daysCounted}: {penniesEarned}");
+
+                }
+            }
+            else
+            {
+                Console.WriteLine("Error: Invalid number");
+            }
+            outputMoney = moneyEarned / 100;
+
+            Console.WriteLine($"Total: {outputMoney:C}");
+
+            return total;
+        }
+
+
         static void Main(string[] args)
         {
-            int count = 4;
 
-            for(int i = 0; i < count; i++)
-            {
-                Console.WriteLine(i);
-            }
+            Job();
 
         }
     }
